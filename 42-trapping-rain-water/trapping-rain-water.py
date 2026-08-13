@@ -26,6 +26,6 @@ class Solution(object):
             else:
                 water = water + (leftmax - height[left])
                 left += 1
-        return water 
+        return water
 
         
